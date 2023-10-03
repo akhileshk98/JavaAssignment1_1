@@ -2,20 +2,16 @@ public class Primes {
     public static void main(String[] args)
     {
         int nValues = 50;
-        boolean isPrime = true;
-        for(int i = 2; i <= nValues; i++)
+        label :for(int i = 2; i <= nValues; i++)
         {
-            isPrime = true;
-            for (int j = 2; j < i; j++)
+            for (int j = 2; j < (int)(Math.sqrt(i)); j++)
             {
                 if (i % j == 0)
                 {
-                    isPrime = false;
-                    break;
+                    continue label; // Using labelled Continue instead of break
                 }
             }
-            if (isPrime)
-                System.out.println(i);
+            System.out.println(i);
         }
     }
 }
