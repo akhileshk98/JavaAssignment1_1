@@ -22,7 +22,7 @@ public class MathCalc
         volumeRatio = volumeOfSunInCubicMiles / volumeOfEarthInCubicMiles;
 
         // Printing the results
-        System.out.println("The Volume of the Earth in Cubic Miles  is "+volumeOfEarthInCubicMiles+"\n");
+        System.out.println("The Volume of the Earth in Cubic Miles is "+volumeOfEarthInCubicMiles+"\n");
         System.out.println("The Volume of the Sun in Cubic Miles is "+volumeOfSunInCubicMiles+"\n");
         System.out.println("The Ratio of Volume of Sun to Volume of Earth is "+volumeRatio);
     }
