@@ -1,13 +1,15 @@
-# JavaAssignment1
-# Author: Akhilesh Kakkayamkode
-# Course: ESE 2023
+JavaAssignment1
+Author: Akhilesh Kakkayamkode
+Course: ESE 2023
+Matriculation Number: -
+FH Identification : akkak001
 
-# The Outputs for all four questions in Assignment 1 mentioned below
+The Outputs for all four questions in Assignment 1 mentioned below
 
-################ 1.  
+# 1.  
 The Ratio of Volume of Sun to Volume of Earth is 1474373.5990122468
 
-################ 2.   
+# 2.   
 2
 3
 4
@@ -32,15 +34,13 @@ The Ratio of Volume of Sun to Volume of Earth is 1474373.5990122468
 47
 49
 
-Process finished with exit code 0
-
-################ 3. 
+# 3. 
 The text contained vowels: 60
 consonants: 93
 letters: 153
 spaces: 37
 
-################ 4. 
+# 4. 
 a
 against
 and
